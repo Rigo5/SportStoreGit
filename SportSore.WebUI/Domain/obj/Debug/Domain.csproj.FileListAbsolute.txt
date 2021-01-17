@@ -4,3 +4,9 @@ C:\Users\MICHELE-PC\source\repos\SportSore.WebUI\Domain\obj\Debug\Domain.csprojA
 C:\Users\MICHELE-PC\source\repos\SportSore.WebUI\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
 C:\Users\MICHELE-PC\source\repos\SportSore.WebUI\Domain\obj\Debug\Domain.dll
 C:\Users\MICHELE-PC\source\repos\SportSore.WebUI\Domain\obj\Debug\Domain.pdb
+C:\Users\MICHELE-PC\source\repos\SportStoreGit\SportSore.WebUI\Domain\bin\Debug\Domain.dll
+C:\Users\MICHELE-PC\source\repos\SportStoreGit\SportSore.WebUI\Domain\bin\Debug\Domain.pdb
+C:\Users\MICHELE-PC\source\repos\SportStoreGit\SportSore.WebUI\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\MICHELE-PC\source\repos\SportStoreGit\SportSore.WebUI\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\MICHELE-PC\source\repos\SportStoreGit\SportSore.WebUI\Domain\obj\Debug\Domain.dll
+C:\Users\MICHELE-PC\source\repos\SportStoreGit\SportSore.WebUI\Domain\obj\Debug\Domain.pdb

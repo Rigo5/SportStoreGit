@@ -22,7 +22,7 @@ namespace Domain.Entity
         [Required(ErrorMessage ="Please enter the zip code")]
         public int Zip { get; set; }
         [Required(ErrorMessage ="Please enter a country name")]
-        public string County { get; set; }
+        public string Country { get; set; }
         public bool GiftWrap { get; set; }
     }
 }
